@@ -4,3 +4,4 @@ git is amazing from feature
 This is the feature branch.
 This is second feature branch message
 Feature branch remote test
+Git is powerful
